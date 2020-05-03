@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebasePlayground", "Mobil
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mobile", "Mobile", "{66CD08F9-800A-4DC8-9391-520EF8862CA8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{BEEB6109-3BFD-482E-976C-48EC9E174CA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirebasePlayground.Console", "Console\FirebasePlayground.Console\FirebasePlayground.Console.csproj", "{327CECAC-1346-455E-80AA-91AE3CC743F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,10 +59,23 @@ Global
 		{B2B39881-7877-40CF-8C6B-B2A304B634C2}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{B2B39881-7877-40CF-8C6B-B2A304B634C2}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{B2B39881-7877-40CF-8C6B-B2A304B634C2}.Release|iPhone.Build.0 = Release|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{327CECAC-1346-455E-80AA-91AE3CC743F5}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B2B39881-7877-40CF-8C6B-B2A304B634C2} = {66CD08F9-800A-4DC8-9391-520EF8862CA8}
 		{D7DF7CD5-0DCB-433C-B5FA-9A7B23CDDC53} = {66CD08F9-800A-4DC8-9391-520EF8862CA8}
 		{0E6F1FC0-FCD0-432E-88DA-6BD486FF532A} = {66CD08F9-800A-4DC8-9391-520EF8862CA8}
+		{327CECAC-1346-455E-80AA-91AE3CC743F5} = {BEEB6109-3BFD-482E-976C-48EC9E174CA2}
 	EndGlobalSection
 EndGlobal
